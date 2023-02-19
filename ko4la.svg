@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <svg version="1.2" baseProfile="tiny-ps" width="900" height="900" xmlns="http://www.w3.org/2000/svg">
+  <title>Ko4lA</title>
   <style type="text/css"><![CDATA[
     @media (prefers-color-scheme: light) {
       svg, rect, line, circle {
@@ -18,7 +19,6 @@
       }
     }
   ]]></style>
-  <title>Ko4lA</title>
   <rect x="150" y="150" width="600" height="600" />
   <circle cx="450" cy="450" r="300" stroke="white" />
   <line x1="150" x2="450" y1="750" y2="150" />
